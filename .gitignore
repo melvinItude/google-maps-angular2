@@ -6,4 +6,3 @@
 node_modules
 .idea/codeStyleSettings.xml
 .idea/inspectionProfiles/
-dist/
